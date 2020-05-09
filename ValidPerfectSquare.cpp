@@ -14,4 +14,4 @@ public:
     }
 };
 
-/// We used unsigned int here as simple [read signed] int gave overflow error.
+// We used unsigned int here as simple [read signed] int gave overflow error.
